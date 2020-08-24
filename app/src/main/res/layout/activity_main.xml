@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/buttonSad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow_orange"
+        android:text="@string/i_feel_sad" />
+
+    <Button
+        android:id="@+id/buttonHorribleDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow_orange"
+        android:text="@string/horrible_day" />
+
+    <Button
+        android:id="@+id/buttonCrying"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow_orange"
+        android:text="@string/i_am_crying" />
+
+    <Button
+        android:id="@+id/buttonAngry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow_orange"
+        android:text="@string/i_feel_angry" />
+
+    <Button
+        android:id="@+id/buttonLackMotivation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow_orange"
+        android:text="@string/lack_of_motiv" />
+
+    <Button
+        android:id="@+id/buttonSickness"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow_orange"
+        android:text="@string/i_feel_sick" />
+
+    <Button
+        android:id="@+id/buttonLostFaithInHumanity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow_orange"
+        android:text="@string/lost_faith_in_humanity" />
+
+    <Button
+        android:id="@+id/buttonCalmThyself"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/yellow_orange"
+        android:text="@string/calm_down" />
+</LinearLayout>

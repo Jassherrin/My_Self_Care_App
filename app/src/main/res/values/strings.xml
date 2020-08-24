@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Self Care App</string>
+    <string name="calm_down">How do I calm down right now?!</string>
+    <string name="lost_faith_in_humanity">I am mad at someone else #-_-</string>
+    <string name="i_feel_sick">I FEEL SICK @_@</string>
+    <string name="lack_of_motiv">I have no motivation to do anything... T_____T</string>
+    <string name="i_feel_angry">I feel angry! =_=</string>
+    <string name="i_am_crying">I am crying right now T~T</string>
+    <string name="horrible_day"><![CDATA[I had a horrible day today >~<]]></string>
+    <string name="i_feel_sad">I feel sad :(</string>
+</resources>
